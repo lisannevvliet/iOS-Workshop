@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Lisanne van Vliet 500816952
+
+  Created by Lisanne van Vliet on 17/11/2021.
+  
+*/
+
+"News List" = "Nieuwslijst";
+"Image is loading." = "Afbeelding wordt geladen.";
+"Log in" = "Inloggen";
+"News Details" = "Nieuws Details";
+"Username" = "Gebruikersnaam";
+"Password" = "Wachtwoord";
+"Account not found." = "Account niet gevonden.";
+"Log in / Sign up" = "Inloggen / Aanmelden";
+"Favorites" = "Favorieten";
